@@ -12,4 +12,4 @@ at first setup a set of data and key in some numbers.
 >          -6  -12
 >          -7  -14
 >          -8  -16
-![seted data set](https://github.com/tuxiaoyue/fix-plot-error-in-RStudio/blob/master/set%20data.JPG?raw=true)
+![seted data set](https://github.com/tuxiaoyue/fix-plot-error-in-RStudio/blob/master/set%20data.JPG)
