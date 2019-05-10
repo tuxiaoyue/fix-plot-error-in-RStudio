@@ -20,4 +20,8 @@ then error occur
 >         In addition: Warning message:
 >         In gzfile(file, "wb") :
 >             cannot open compressed file 'C:/Users/????/AppData/Local/Temp/Rtmp4M1uVV/rs-graphics-2423e4a9-b452-491c-808e-bccdbc9a08bf/464bbd85-6afd-4130-ae7e-b04b67700634.snapshot', probable reason 'Invalid argument'
->           Graphics error: Plot rendering error
+>           Graphics error: Plot rendering error    
+
+
+# fix the error
+for fix this error, we need chang a 
