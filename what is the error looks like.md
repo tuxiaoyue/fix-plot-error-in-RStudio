@@ -24,4 +24,14 @@ then error occur
 
 
 # fix the error
-for fix this error, we need chang a 
+for fix this error, we need chang a Enviroment Variables.
+found the control panel in the windows.   
+than select system and security->system->advanced system settings   
+select environment variables.
+change the TEMP and TMP
+the part should be change is betweent User and AppData
+*remember the character in changed shoude be in english*
+click *ok*
+reopen RStudio
+>        > plot(data)
+![seted data set]()
