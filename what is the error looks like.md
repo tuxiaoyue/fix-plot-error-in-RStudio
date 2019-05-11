@@ -34,4 +34,5 @@ the part should be change is betweent ***User*** and ***AppData***
 click *ok*   
 reopen RStudio    
 >        > plot(data)
-![seted data set](https://github.com/tuxiaoyue/fix-plot-error-in-RStudio/blob/master/Rplot07.png?raw=true)
+![seted data set](https://github.com/tuxiaoyue/fix-plot-error-in-RStudio/blob/master/Rplot07.png?raw=true)   
+than you can see it has been fixed
